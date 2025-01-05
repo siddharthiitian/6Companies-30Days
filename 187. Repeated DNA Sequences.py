@@ -11,3 +11,4 @@ class Solution:
                 seen.add(sequence)
         
         return list(repeated)
+
